@@ -1,1 +1,1 @@
-# Calculator
+The Odin Project Foundation's last project. 
